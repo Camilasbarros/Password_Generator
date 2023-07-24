@@ -13,8 +13,8 @@ Prompt the user for password criteria, including:
 - Lowercase letters (a-z);
 - Numeric digits (0-9);
 - Special characters (e.g., @, #, $, etc.).
-  Validate each input and ensure at least one type of character is selected.
-  Display the generated password in an alert or show it on the page.
+- Validate each input and ensure at least one type of character is selected.
+- Display the generated password in an alert or show it on the page.
 
 ## How to Use
 
